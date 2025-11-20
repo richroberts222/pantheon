@@ -1,0 +1,30 @@
+# Node
+node_modules/
+
+# Playwright output
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Chrome profiles (DO NOT COMMIT)
+real-chrome-profile/
+google-profile/
+**/Default/
+**/User Data/
+
+# Logs, dumps, extras
+*.zip
+*.log
+*.webm
+*.mp4
+logs/
+
+# Environment secrets
+.env
+google-auth-with-addon.json
+
+# OS/system files
+.vscode/
+.DS_Store
+Thumbs.db

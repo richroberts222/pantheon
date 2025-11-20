@@ -1,0 +1,29 @@
+{
+  "urls": {
+    "googleDocCreate": "https://docs.google.com/document/create"
+  },
+
+  "pantheon": {
+    "bodyText": "Pantheon is Awesome!",
+    "documentTitle": "Pantheon Doc"
+  },
+
+  "selectors": {
+    "chromeControlled": "Chrome is being controlled by automated test software",
+    "allowAccessAlt": "Allow access",
+    "refreshAlt": "Refresh",
+    "connectToPlaygroundAlt": "Connect to playground",
+    "goToPlaygroundAlt": "Go to playground",
+    "publishAria": "PUBLISH"
+  },
+
+  "modalText": {
+    "allowButton": "Allow",
+    "pantheonDialogText": "Allow Pantheon to access this file"
+  },
+
+  "publishPopup": {
+    "publishButtonText": "Publish",
+    "viewLiveText": "View Live Content"
+  }
+}

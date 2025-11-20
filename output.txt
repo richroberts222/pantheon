@@ -1,0 +1,17 @@
+.github
+google-profile
+node_modules
+pages
+playwright-report
+real-chrome-profile
+test-results
+tests
+tests-examples
+utils
+.gitignore
+empty.json
+google-auth-with-addon.json
+output.txt
+package.json
+package-lock.json
+playwright.config.js
